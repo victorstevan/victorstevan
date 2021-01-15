@@ -11,14 +11,16 @@
 
 ## Ouvindo 🎵
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/vblz0uhgc4dpv743roed23mc9?si=1uSMPm0KSOqARltmISon4Q)
+[   <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/vblz0uhgc4dpv743roed23mc9?si=1uSMPm0KSOqARltmISon4Q)
 
-### Onde me achar:
+## Onde me achar:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/victor-stevan-ribeiro-5375a719b/]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/victor.stevan.311/?hl=pt-br]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/victor-stevan-ribeiro-5375a719b/)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/victor.stevan.311/?hl=pt-br)
 
-### Linguagens e ferramentas:
+<br />
+
+# Linguagens e ferramentas:
 
 ## Desenvolvimento Geral
 
