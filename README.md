@@ -38,6 +38,7 @@
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/java-60-1174953.png" /> 
 <img align="left" alt="Dart" width="26px" src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" /> 
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
+<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
 
 <br /> 
 <br />
@@ -45,7 +46,7 @@
 
 ## Processamento de Linguagem Natural e Ciência de Dados
 
-<img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
+
 <img align="left" alt="Rlang" width="26px" src="https://www.r-project.org/logo/Rlogo.svg" />
 <img align="left" alt="TensorFlow" width="26px" src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" />
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
