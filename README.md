@@ -6,6 +6,7 @@
 - 🎰 Também temos features de Ciência de Dados, então estatística também é algo que gosto e estudo.
 - 🏗 Quando sobra tempo eu sempre posto algum projetinho aqui e contribuo, porém, maior parte deles é privado.
 - 🌄 Meta git de 2020: Contribuir para mais projetos e ter pelo menos 1500 contribuições.
+- ☕ Quero, em 2021, trabalhar em um projeto em Kotlin para aprender o ecosistema da linguágem e parar de sofrer com Java. De preferência usando Spring
 
 <br />
 
