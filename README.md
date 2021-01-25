@@ -2,7 +2,7 @@
 
 ## Atualmente, sou estudante de Engenharia Elétrica
 - ⭐ Porém, atuo como engenheiro de software na [Starly](https://www.instagram.com/starlymkt/)
-- 🍎 Umas das demandas atuais da Starly é Natural Language Processing, então é minhas área de estudo atual. E muita pesquisa 😫.
+- 🍎 Umas das demandas atuais da Starly é Natural Language Processing, então é minhas área de estudo atual. E muita pesquisa.
 - 🎰 Também temos features de Ciência de Dados, então estatística também é algo que gosto e estudo.
 - 🏗 Quando sobra tempo eu sempre posto algum projetinho aqui e contribuo, porém, maior parte deles é privado.
 - 🌄 Meta git de 2020: Contribuir para mais projetos e ter pelo menos 1500 contribuições.
